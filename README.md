@@ -5,9 +5,13 @@ our Object-Oriented Programming skills, and involves replicating the classic Ata
 
 # Controls
 forward - W 
+
 left - A 
+
 back - S 
+
 right - D 
+
 shoot - SPACEBAR
 
 # Objective
