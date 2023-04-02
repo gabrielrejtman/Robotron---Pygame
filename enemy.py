@@ -78,37 +78,37 @@ class Green(pygame.sprite.Sprite):
         self.assets_right = []
 
         self.assets_front.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/front/front.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/front.png'), (32, 42)))
         self.assets_front.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/front/front_1.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/front_1.png'), (32, 42)))
         self.assets_front.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/front/front.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/front.png'), (32, 42)))
         self.assets_front.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/front/front_2.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/front_2.png'), (32, 42)))
         self.assets_front.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/front/front.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/front.png'), (32, 42)))
 
         self.assets_left.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/left/left.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/left.png'), (32, 42)))
         self.assets_left.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/left/left_1.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/left_1.png'), (32, 42)))
         self.assets_left.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/left/left.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/left.png'), (32, 42)))
         self.assets_left.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/left/left_2.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/left_2.png'), (32, 42)))
         self.assets_left.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/left/left.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/left.png'), (32, 42)))
 
         self.assets_right.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/right/right.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/right.png'), (32, 42)))
         self.assets_right.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/right/right_1.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/right_1.png'), (32, 42)))
         self.assets_right.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/right/right.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/right.png'), (32, 42)))
         self.assets_right.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/right/right_2.png'), (32, 42)))
+            'sprites/Enemys/Verdão/walking/right_2.png'), (32, 42)))
         self.assets_right.append(pygame.transform.scale(pygame.image.load(
-            'sprites/Enemys/Verdão/right/right.png'), (32, 42)))
+            'sprites/Enemys/Verdão/static/right.png'), (32, 42)))
 
         self.sprite_state = 0
         self.current_sprite = 0
