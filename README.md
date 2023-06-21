@@ -1,6 +1,6 @@
 # Robotron---Pygame
 
-This project was created as part of our college coursework to enhance 
+This project was created as part of a homework from college to enhance 
 our Object-Oriented Programming skills, and involves replicating the classic Atari game "Robotron 2084".
 
 # Controls
